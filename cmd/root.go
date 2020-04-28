@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/alexeykiselev/goff/internal/templates/element"
 	"github.com/consensys/bavard"
-	"github.com/consensys/goff/internal/templates/element"
 	"github.com/spf13/cobra"
 )
 

@@ -13,7 +13,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/consensys/goff/cmd"
+	"github.com/alexeykiselev/goff/cmd"
 )
 
 //go:generate rm primes.csv

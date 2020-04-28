@@ -15,7 +15,7 @@
 // Package goff (go finite field) is a unix-like tool that generates fast field arithmetic in Go.
 package main
 
-import "github.com/consensys/goff/cmd"
+import "github.com/alexeykiselev/goff/cmd"
 
 func main() {
 	cmd.Execute()
